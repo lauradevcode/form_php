@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.central{
+    padding-top: 150px;
+    font-size: 15px;
+}
+.h1{
+    text-align: center;
+    font-family: 'Courier', monospace;
+    color: #bf1010;
+    margin-top: 20px;
+}
+form{
+    text-align: center;
+    margin-top: 5px; 
+}
+form input{
+    border-radius: 8px;
+    padding-top: 5px;
+    margin-bottom: 3px;
+    font-family: "Arial", Times, serif;
+    padding-bottom: 3px;
+}
+#enviar{
+    background-color: #a21212;
+    width: 70px;
+    font-size: 18px;
+    border-radius: 4px;
+    color: #fff;
+    height: 35px;
+    cursor: pointer;
+    box-shadow: 3px 4px #888888;
+
+}
+#enviar:hover{
+   background-color: transparent;
+   color: #a21212;
+}
